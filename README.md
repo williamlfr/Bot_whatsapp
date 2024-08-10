@@ -2,7 +2,7 @@
 Bot automatico para whatsapp, envia links para pessoas e numeros diferentes e individuais para cobranças especificas ou promoçoes personalizadas
 
 
-<h1 align="center">Ola eu sou o William</h1>
+<h1 align="center">Olá eu sou o William Ribeiro</h1>
 <h3 align="center">Mecanico de aeronaves mudando de carreira</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamlfr&label=Profile%20views&color=0e75b6&style=flat" alt="williamlfr" /> </p>
